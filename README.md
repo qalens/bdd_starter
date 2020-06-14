@@ -5,4 +5,4 @@ if not you can download chromedriver binaries from [here](https://chromedriver.c
 2. any version of java (later than or equal to java 8)
 
 ## Running tests
-1. To run test run command ```./gradlw clean test```
+1. To run test run command ```./gradlew clean test```
